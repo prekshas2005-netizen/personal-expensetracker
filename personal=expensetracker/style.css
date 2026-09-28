@@ -1,0 +1,6 @@
+body { background: #f8f9fa; }
+.card-title { font-weight: 600; }
+.navbar-brand { font-weight: 600; }
+#categoryBreakdown div { display: flex; justify-content: space-between; font-size: 0.9rem; }
+.delete-btn { cursor: pointer; color: #dc3545; }
+.delete-btn:hover { color: #a71d2a; }
